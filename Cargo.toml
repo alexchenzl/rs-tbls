@@ -1,0 +1,9 @@
+[package]
+name = "tbls"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+blst = "0.3.3"
+rand = "0.7.3"
